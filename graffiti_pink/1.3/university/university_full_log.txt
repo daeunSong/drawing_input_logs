@@ -1,0 +1,6 @@
+university_full
+COLOR : CMYK
+C 	10395	3734.43 ms	2324.54ms
+M 	25290	6375.98 ms	3458.22ms
+Y 	3984	2296.98 ms	888.848ms
+K 	55504	11432.8 ms	4604.78ms
